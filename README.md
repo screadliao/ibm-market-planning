@@ -2,6 +2,21 @@
 
 A Claude Code skill that applies the **IBM Market Planning (MP) Methodology** to produce rigorous, structured market entry and go-to-market strategies.
 
+使用方式
+安裝後，以下情境都會自動觸發這個 skill：
+
+"幫我做這個產品的市場進入策略"
+"用IBM架構分析一下這份GTM"
+"做SPAN分析、STEEP分析、Cross SWOT"
+"評估一下這份GPT產出的market analysis"
+"設計coverage plan / value net / incubation milestone"
+
+Skill 的核心價值
+這個 skill 把這次 session 最重要的兩件事固化下來：
+
+Assessment Mode — 評估任何既有分析（GPT / 顧問 / 內部）vs IBM 架構，直接輸出 gap table + 補充建議。未來你拿到任何市場分析文件，丟進來就能快速知道缺什麼。
+七大核心原則 + Failure Modes 速查 — Growth Gap 必須先做、SPAN 軸不可替換、FAN 是 SPAN 的財務驗證、Value Net 三條流缺一不可……這些是這次 session 發現 GPT 最常踩的坑，全部編進 skill 裡，下次不用重新發現。
+
 ## What It Does
 
 Guides you through IBM's three-phase market planning framework — from strategic intent to executable plan — and produces structured outputs (Markdown, PPTX, Excel).
